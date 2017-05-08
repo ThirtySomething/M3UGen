@@ -1,0 +1,16 @@
+style=allman
+indent=tab=3
+indent-namespaces
+indent-preproc-block
+indent-col1-comments
+break-blocks=all
+pad-oper
+pad-comma
+pad-header
+unpad-paren
+delete-empty-lines
+break-closing-braces
+break-one-line-headers
+add-braces
+close-templates
+max-code-length=120
